@@ -1,0 +1,11 @@
+.choice-box>.label {
+    -fx-text-fill: white;
+}
+
+.choice-box .context-menu {
+	-fx-background-color: #363636;
+}
+
+.choice-box .menu-item>.label {
+	-fx-text-fill: white;
+}
