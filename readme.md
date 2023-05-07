@@ -1,5 +1,7 @@
 # Alarm System
 
+> **This repository has become obsolete due to the discontinuation of support for Ukraine's air-raid alert website.**
+
 ## About
 
 **Alarm System** is a JavaFX project, that helps to get air alarms as fast as can in Ukraine.
